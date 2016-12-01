@@ -1,22 +1,102 @@
-Explorer : play games two times in ten different groups
-Linguist : play 10 languages twice at least
-Addict : play for 10 hours straight
-O HAI DER! : Play a game with the developer
-Welcome to the Asylum : Play a chaos game
-Welcome to Hell : Play a game (any mode)
-Alzheimer's Patient : Play a game in amnesia mode
-Spy vs Spy : Play a game in secret mode
-I have no idea what I'm doing : Play a game in secret amnesia mode
-Enochlophobia : Play in a 35 player game
-Introvert : Play in a 5 player game
-Naughty! : Play a game with a NSFW language pack
-Dedicated : Play 100 games
-Obsessed : Play 1000 games
-Here's Johnny! : Get 10 kills as SK
-I got your back : Save 10 players as GA
-Masochist : Be lynched as the Tanner
-Wobble Wobble : Survive a game as the Drunk
-Inconspicuous : Make it through a game without a single lynch vote against you (20+ players)
-Survivalist : Survive 100 games
-Black Sheep : Get lynched first 3 times in a row
-Promiscuous : Finish the game alive as a harlot without repeating visits or staying at home (5+ nights)
+- Veteran
+  Play 500 games.  You can now join @werewolfvets
+- Double Kill
+  Be part of the Serial Killer / Hunter ending
+- Speed Dating
+  Have the bot select you as a lover (cupid failed to choose)
+- OH SHI-
+  Kill your lover on the first night
+- Here's Johnny!
+  Get 50 kills as the serial killer
+- The First Stone
+  Be the first to cast a lynch vote 5 times in a single game
+- In for the Long Haul
+  Survive for at least an hour in a single game
+- I Have No Idea What I'm Doing
+  Play a game in secret amnesia mode
+- Should've Said Something
+  As a wolf, your pack eats your lover (first night does not count)
+- Dedicated
+  Play 100 games
+- Cultist Fodder
+  Be the cultist that is sent to attempt to convert the Cult Hunter
+- Obsessed
+  Play 1000 games
+- Inconspicuous
+  In a game of 20 or more people, do not get a single lynch vote against you (and survive)
+- Sunday Bloody Sunday
+  Be one of at least 4 victims to die in a single night
+- Cultist Convention
+  Be one of 10 or more cultists alive at the end of a game
+- Survivalist
+  Survive 100 games
+- Enochlophobia
+  Play a 35 player game
+- Tanner Overkill
+  As the Tanner, have everyone (but yourself) vote to lynch you
+- I See a Lack of Trust
+  As the Seer, get lynched on the first day
+- Smart Gunner
+  As the Gunner, both of your bullets hit a wolf, serial killer, or cultist
+- Alzheimer's Patient
+  Play a game with an amnesia language pack
+- Change Sides Works
+  Change roles in a game, and win
+- Hey Man, Nice Shot
+  As the hunter, use your dying shot to kill a wolf or serial killer
+- Naughty!
+  Play a game using any NSFW language pack
+- Saved by the Bull(et)
+  As a villager, the wolves match the number of villagers, but the game does not end because the gunner has a bullet
+- That's Why You Don't Stay Home
+  As a wolf or cultist, killer or convert a harlot that stayed home
+- Promiscuous
+  As the harlot, survive a 5+ night game without staying home or visiting the same person more than once
+- Double Shifter
+  Change roles twice in one game (cult conversion does not count)
+- Mason Brother
+  Be one of at least two surviving masons in a game
+- So Close!
+  As the Tanner, be tied for the most lynch votes
+- Self Loving
+  As cupid, pick yourself as one of the lovers
+- Should Have Known
+  As the Seer, reveal the Beholder
+- Wobble Wobble
+  Survive a game as the drunk (at least 10 players)
+- Introvert
+  Play a 5 player game
+- Masochist
+  Win a game as the Tanner
+- Forbidden Love
+  Win as a wolf / villager couple (villager, not village team)
+- Welcome to Hell
+  Play a game
+- Even a Stopped Clock is Right Twice a Day
+  As the Fool, have at least two of your visions be correct by the end of the game
+- Welcome to the Asylum
+  Play a chaos game
+- O HAI DER!
+  Play a game with Para
+- Spy vs Spy
+  Play a game in secret mode (no role reveal)
+- Lone Wolf
+  In a chaos game of 10 or more people, be the only wolf - and win
+- Pack Hunter
+  Be one of 7 living wolves at one time
+- Linguist
+  Play at least 2 games each in 10 different language packs
+- Serial Samaritan
+  As the Serial Killer, kill at least 3 wolves in single game
+- Black Sheep
+  Get lynched first 3 games in a row
+- Explorer
+  Play at least 2 games each in 10 different groups
+- Developer
+  Have a pull request merged into the repo
+- Streetwise
+  Find a different wolf, serial killer, or cultist 4 nights in a row as the detective
+- I've Got Your Back
+  Save 50 people as the Guardian Angel
+- Double Vision
+  Be one of two seers at the same time
